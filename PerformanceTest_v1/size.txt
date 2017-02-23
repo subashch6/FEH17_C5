@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  47724	   3432	   7656	  58812	   e5bc	../PerformanceTest_v1.elf
