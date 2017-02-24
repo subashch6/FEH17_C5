@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  49468	   3432	   7656	  60556	   ec8c	../PerformanceTest1.elf
